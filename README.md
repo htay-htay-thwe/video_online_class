@@ -1,5 +1,6 @@
 # video_online_class
 SheCodes Foundation ကိုအခြေခံပြီးဖန်တီးထားပါသည် video online class လိုမျိုးပါ 
+..This website is similar to SheCodes foundation...
 
 ## Login 
 
